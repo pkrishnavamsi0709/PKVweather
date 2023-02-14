@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PKVweather/static/css/main.d3e1d2dc.css",
+    "main.js": "/PKVweather/static/js/main.6c0a0093.js",
+    "static/js/787.13d76ca7.chunk.js": "/PKVweather/static/js/787.13d76ca7.chunk.js",
+    "static/media/wp6767422.webp": "/PKVweather/static/media/wp6767422.e48c072e500452303589.webp",
+    "static/media/warm-bg.jpg": "/PKVweather/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold-bg.jpg": "/PKVweather/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
+    "index.html": "/PKVweather/index.html",
+    "main.d3e1d2dc.css.map": "/PKVweather/static/css/main.d3e1d2dc.css.map",
+    "main.6c0a0093.js.map": "/PKVweather/static/js/main.6c0a0093.js.map",
+    "787.13d76ca7.chunk.js.map": "/PKVweather/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e1d2dc.css",
+    "static/js/main.6c0a0093.js"
+  ]
+}
